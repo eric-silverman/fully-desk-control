@@ -1,0 +1,7 @@
+.pio/
+.vscode/
+.gstack/
+.claude/settings.local.json
+.DS_Store
+src/secrets.h
+compile_commands.json
